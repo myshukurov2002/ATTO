@@ -1,0 +1,1 @@
+package org.example.service;import org.example.entity.Profile;public interface TerminalService {    void createTerminal() throws RuntimeException;    void getTerminalList();    void updateTerminal();    void changeTerminalStatus();    void deleteTerminal();}

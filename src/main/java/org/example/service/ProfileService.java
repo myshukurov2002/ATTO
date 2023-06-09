@@ -1,0 +1,1 @@
+package org.example.service;public interface ProfileService {    void getProfiles();}

@@ -1,0 +1,1 @@
+package org.example.service;import org.example.entity.Profile;public interface TransactionService {    void manage(Profile profile);}

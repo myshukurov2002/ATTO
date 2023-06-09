@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/8716fd35-d430-433f-be52-689709eccfbf/console.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/repository/CardRepository.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/repository/ProfileRepository.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/repository/TerminalRepository.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/service/impl/TerminalServiceImpl.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.sql" dialect="PostgreSQL" />
+  </component>
+</project>

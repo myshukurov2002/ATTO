@@ -1,0 +1,1 @@
+package org.example.controller;import org.example.entity.Profile;public class StatisticsController {    public void manage(Profile profile) {        ;    }}

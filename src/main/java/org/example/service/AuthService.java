@@ -1,0 +1,1 @@
+package org.example.service;public interface AuthService {    void login(String phone, String password);    void register(String name, String surname, String phone, String password);}
